@@ -4,7 +4,7 @@
 
 ![comStore](https://user-images.githubusercontent.com/67665537/175374070-d813d7c5-29d1-4fad-b41f-bec2323e99f5.jpg)
 
-## Each Product has its own individual page managed by a cms for easy additions removals, and sales. The page also contains a carousel of similar products for the user to browse!
+## Each product has its own individual page managed by a cms for easy additions removals, and sales. The page also contains a carousel of similar products for the user to browse!
 
 ![comstore4](https://user-images.githubusercontent.com/67665537/175375461-c6c458d7-5471-4af1-b598-76b703fe1828.jpg)
 
