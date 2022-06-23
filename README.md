@@ -3,12 +3,12 @@ An Ecommerece site for custom built computers with full checkout. Built with Rea
 
 ![comStore](https://user-images.githubusercontent.com/67665537/175374070-d813d7c5-29d1-4fad-b41f-bec2323e99f5.jpg)
 
-Each Product has its own individual page managed by a cms for easy additions removals, and sales.
+Each Product has its own individual page managed by a cms for easy additions removals, and sales. The page also contains a carousel of similar products for the user to browse
 
 
 ![comstore2](https://user-images.githubusercontent.com/67665537/175374096-4b0860cf-393b-4a93-811f-668216427d41.png)
 
-Fully managed checkout system with strip.
+Fully managed checkout system with stripe.
 
 
 ![comstore3](https://user-images.githubusercontent.com/67665537/175374102-e91b2925-dfb5-45b5-a280-4153b14d0db0.jpg)
