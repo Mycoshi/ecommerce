@@ -167,7 +167,7 @@ width: 100%;
 .hero-banner-image{
   position: absolute;
   top: 0%;
-  right:20%;
+  right:0%;
   width: 450px;
   height: 450px;
 }
@@ -245,11 +245,13 @@ text-align: end;
   margin:18px;
 }
 .footer-banner-image{
-  position: absolute;
+  position:absolute;
   /* top: -35%;
   left: 8%; */
-  top: -25%;
-  left: 25%;
+  top:0%;
+  left: 30%;
+  height:400px;
+  width:400px;
 }
 .banner-desc .right{
   line-height: 1.4;
@@ -621,22 +623,24 @@ margin-top: 160px;
 @media screen and (max-width:800px) {
   .hero-banner-container{
     height: 560px;
+    text-align: center;
   }
   .hero-banner-image{
+    display: none;
     width: 77%;
     height: 62%;
     top: -2%;
-    right: -6%;
+    right: -10%;
   }
   .footer-banner-container{
     height: 560px;
     margin-top: 80px;
   }
   .footer-banner-image{
-    width: 77%;
-    left: 30%;
+    display: none;
+    width: 450px;
     top: 6%;
-    height: 56%
+    height: 450px;
   }
   .banner-desc .left h3{
     font-weight: 900;
